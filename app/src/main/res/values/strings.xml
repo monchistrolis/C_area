@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculador de Area y Perimetro</string>
+    <string name="in_ingreso">Ingrese un Valor</string>
+    <string name="Area">Area o Perimetro</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="s_opcion">Seleccione una opcion</string>
+    <string name="resultado">Resultado</string>
+</resources>
